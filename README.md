@@ -4,7 +4,7 @@
 # Доступные Команды:
 * /start
 * /menu
-* ''' /mymoney '''
+* /mymoney 
 * /myspending
 * /calendar
 * /count
